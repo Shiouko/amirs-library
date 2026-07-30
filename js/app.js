@@ -551,6 +551,9 @@
       const kind = e.type === 'anime' ? 'anime' : 'manga';
       links.push(`<a class="ghost-btn" href="https://myanimelist.net/${kind}/${e.malId}" target="_blank" rel="noopener">View on MAL ↗</a>`);
     }
+    if (e.mangadexId != null) {
+      links.push(`<a class="ghost-btn" href="https://mangadex.org/title/${e.mangadexId}" target="_blank" rel="noopener">View on MangaDex ↗</a>`);
+    }
     const linksPanel = links.length ? `<div class="links-row">${links.join('')}</div>` : '';
 
     const footMeta = `

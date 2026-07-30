@@ -51,7 +51,8 @@
       "title": "A Parallel World With a 1:39 Male to Female Ratio Is Unexpectedly Normal",
       "nativeTitle": "男女比1:39の平行世界は思いのほか普通",
       "anilistId": null,
-      "coverUrl": "",
+      "mangadexId": "547b5366-e71a-400d-b48e-7d4447ac1cf3",
+      "coverUrl": "assets/covers/danjohi-139.jpg",
       "status": "reading",
       "progressCurrent": 284,
       "progressTotal": null,
@@ -59,11 +60,11 @@
       "startedDate": "2026-07-30",
       "genres": ["Comedy", "Romance", "Fantasy"],
       "synopsis": "Satou Sou is accidentally swapped with himself in a parallel world with a male/female ratio of 1:39. He finds a kind family and lovely women at the place where he was switched.",
-      "notes": "Not on AniList yet, added manually",
+      "notes": "Not on AniList yet, cover self-hosted from MangaDex",
       "history": [
         { "date": "2026-07-30", "chapter": 284, "note": "Started reading, caught up to latest" }
       ],
-      "externalLinks": { "anilist": "" }
+      "externalLinks": { "anilist": "", "mangadex": "https://mangadex.org/title/547b5366-e71a-400d-b48e-7d4447ac1cf3" }
     },
     {
       "id": "al-211193",
