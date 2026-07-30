@@ -1,8 +1,36 @@
 {
   "meta": {
     "owner": "Amir Hafizi",
-    "lastUpdated": "2026-07-30T20:27:28+08:00",
+    "lastUpdated": "2026-07-30T20:45:00+08:00",
     "schemaVersion": 1
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "al-201773",
+      "type": "manga",
+      "title": "Haimiya-senpai wa Kowakute Kawaii",
+      "nativeTitle": "灰宮先輩は怖くてかわいい",
+      "anilistId": 201773,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx201773-ecGmhCRhfu05.jpg",
+      "status": "reading",
+      "progressCurrent": 36,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Comedy", "Romance", "Slice of Life"],
+      "synopsis": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!",
+      "notes": "",
+      "history": [
+        {
+          "date": "2026-07-30",
+          "chapter": 36,
+          "note": "Started reading, caught up to latest"
+        }
+      ],
+      "externalLinks": {
+        "anilist": "https://anilist.co/manga/201773",
+        "mal": ""
+      }
+    }
+  ]
 }
