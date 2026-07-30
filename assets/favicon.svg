@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Amir's Library favicon: sharp-edged open book, ruby palette, NO rounded corners -->
+  <rect x="0" y="0" width="64" height="64" fill="#1B1621"/>
+  <!-- Left page -->
+  <polygon points="8,14 30,18 30,52 8,48" fill="#E0115F"/>
+  <!-- Right page -->
+  <polygon points="56,14 34,18 34,52 56,48" fill="#9B111E"/>
+  <!-- Spine -->
+  <rect x="30" y="18" width="4" height="34" fill="#FAF7F2"/>
+  <!-- Page lines (left) -->
+  <rect x="13" y="24" width="13" height="2" fill="#FAF7F2"/>
+  <rect x="13" y="30" width="13" height="2" fill="#FAF7F2"/>
+  <rect x="13" y="36" width="13" height="2" fill="#FAF7F2"/>
+  <!-- Page lines (right) -->
+  <rect x="38" y="24" width="13" height="2" fill="#FAF7F2"/>
+  <rect x="38" y="30" width="13" height="2" fill="#FAF7F2"/>
+  <rect x="38" y="36" width="13" height="2" fill="#FAF7F2"/>
+</svg>
