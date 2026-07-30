@@ -1,7 +1,7 @@
 {
   "meta": {
     "owner": "Amir Hafizi",
-    "lastUpdated": "2026-07-30T21:00:00+08:00",
+    "lastUpdated": "2026-07-30T21:30:00+08:00",
     "schemaVersion": 1
   },
   "entries": [
@@ -18,12 +18,12 @@
       "score": null,
       "startedDate": "2026-07-30",
       "genres": ["Comedy", "Romance", "Slice of Life"],
-      "synopsis": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me! The curtain rises upon this heart-fluttering romantic comedy about a terrifying-yet-sweet senpai!",
+      "synopsis": "At my high school, everyone fears Haimiya-senpai. With her sharp piercings, striking grey wolf-cut, and that brutally honest Kansai dialect, she has a reputation for being downright terrifying. Yet, for some mysterious reason...this intimidating upperclassman is kind and gentle only to me!",
       "notes": "",
       "history": [
         { "date": "2026-07-30", "chapter": 36, "note": "Started reading, caught up to latest" }
       ],
-      "externalLinks": { "anilist": "https://anilist.co/manga/201773", "mal": "" }
+      "externalLinks": { "anilist": "https://anilist.co/manga/201773" }
     },
     {
       "id": "al-200432",
@@ -43,7 +43,7 @@
       "history": [
         { "date": "2026-07-30", "chapter": 21, "note": "Started reading, caught up to latest" }
       ],
-      "externalLinks": { "anilist": "https://anilist.co/manga/200432", "mal": "" }
+      "externalLinks": { "anilist": "https://anilist.co/manga/200432" }
     },
     {
       "id": "manual-danjohi-139",
@@ -58,12 +58,12 @@
       "score": null,
       "startedDate": "2026-07-30",
       "genres": ["Comedy", "Romance", "Fantasy"],
-      "synopsis": "Satou Sou is accidentally swapped with himself in a parallel world with a male/female ratio of 1:39. He finds a kind family and lovely women at the place where he was switched. Seeing the outside of these women, he's relieved to see that the number of men and women has changed, but not much else. However, their inner lives are filled with conflicts and troubles.",
+      "synopsis": "Satou Sou is accidentally swapped with himself in a parallel world with a male/female ratio of 1:39. He finds a kind family and lovely women at the place where he was switched.",
       "notes": "Not on AniList yet, added manually",
       "history": [
         { "date": "2026-07-30", "chapter": 284, "note": "Started reading, caught up to latest" }
       ],
-      "externalLinks": { "anilist": "", "mal": "" }
+      "externalLinks": { "anilist": "" }
     },
     {
       "id": "al-211193",
@@ -83,7 +83,7 @@
       "history": [
         { "date": "2026-07-30", "chapter": 28, "note": "Started reading, caught up to latest" }
       ],
-      "externalLinks": { "anilist": "https://anilist.co/manga/211193", "mal": "" }
+      "externalLinks": { "anilist": "https://anilist.co/manga/211193" }
     },
     {
       "id": "al-211510",
@@ -103,7 +103,227 @@
       "history": [
         { "date": "2026-07-30", "chapter": 8, "note": "Started reading" }
       ],
-      "externalLinks": { "anilist": "https://anilist.co/manga/211510", "mal": "" }
+      "externalLinks": { "anilist": "https://anilist.co/manga/211510" }
+    },
+    {
+      "id": "al-136312",
+      "type": "manga",
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "nativeTitle": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+      "anilistId": 136312,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136312-VS8YRZr3K5pb.jpg",
+      "status": "reading",
+      "progressCurrent": 8,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Comedy", "Romance"],
+      "synopsis": "In an elite school full of high-class flowers, I've been secretly assigned to take care of the most popular ojousama, who has absolutely zero life skills...",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 8, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/136312" }
+    },
+    {
+      "id": "al-212619",
+      "type": "manhwa",
+      "title": "The Veteran Swordmaster's Stream",
+      "nativeTitle": "검술 고인물의 게임방송",
+      "anilistId": 212619,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx212619-29cBcjWDuepN.jpg",
+      "status": "reading",
+      "progressCurrent": 23,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 23, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/212619" }
+    },
+    {
+      "id": "al-163824",
+      "type": "manhwa",
+      "title": "Revenge of the Baskerville Bloodhound",
+      "nativeTitle": "철혈검가 사냥개의 회귀",
+      "anilistId": 163824,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg",
+      "status": "reading",
+      "progressCurrent": 11,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 11, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/163824" }
+    },
+    {
+      "id": "al-164122",
+      "type": "manhwa",
+      "title": "The Dark Mage's Return to Enlistment",
+      "nativeTitle": "귀환했는데 입대 전날이다",
+      "anilistId": 164122,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164122-zdeLVK8DfxBt.jpg",
+      "status": "reading",
+      "progressCurrent": 98,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Drama", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 98, "note": "Started reading, caught up to latest" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/164122" }
+    },
+    {
+      "id": "al-187427",
+      "type": "manhwa",
+      "title": "The Villain Wants to Live",
+      "nativeTitle": "악당은 살고 싶다",
+      "anilistId": 187427,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx187427-7A225QIPaIU3.png",
+      "status": "reading",
+      "progressCurrent": 60,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Drama", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 60, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/187427" }
+    },
+    {
+      "id": "al-172619",
+      "type": "manhwa",
+      "title": "The Extra's Academy Survival Guide",
+      "nativeTitle": "아카데미에서 살아남기",
+      "anilistId": 172619,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx172619-LSoXY45QAas4.jpg",
+      "status": "reading",
+      "progressCurrent": 95,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 95, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/172619" }
+    },
+    {
+      "id": "al-44721",
+      "type": "manga",
+      "title": "D-Frag!",
+      "nativeTitle": "ディーふらぐ!",
+      "anilistId": 44721,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx44721-dekFBiCC9oEh.jpg",
+      "status": "reading",
+      "progressCurrent": 181,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Comedy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 181, "note": "Started reading, caught up to latest" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/44721" }
+    },
+    {
+      "id": "al-182572",
+      "type": "manga",
+      "title": "Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!",
+      "nativeTitle": "怠惰な悪辱貴族に転生した俺、シナリオをぶっ壊したら規格外の魔力で最凶になった",
+      "anilistId": 182572,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182572-Iu4gBC1Cf8qA.jpg",
+      "status": "reading",
+      "progressCurrent": 24,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Comedy", "Drama", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 24, "note": "Started reading, caught up to latest" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/182572" }
+    },
+    {
+      "id": "al-199014",
+      "type": "manhwa",
+      "title": "I Became The Villain The Hero Is Obsessed With",
+      "nativeTitle": "히어로가 집착하는 악당이 되었다",
+      "anilistId": 199014,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx199014-9WftqTvlfTJ3.jpg",
+      "status": "reading",
+      "progressCurrent": 60,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 60, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/199014" }
+    },
+    {
+      "id": "al-178379",
+      "type": "manhwa",
+      "title": "Blink Master of the Magic Academy",
+      "nativeTitle": "마법학교 앞점멸 천재가 되었다",
+      "anilistId": 178379,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178379-dokda9kEw3Ns.jpg",
+      "status": "reading",
+      "progressCurrent": 100,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 100, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/178379" }
+    },
+    {
+      "id": "al-195017",
+      "type": "manga",
+      "title": "I Have 5 Stepsisters",
+      "nativeTitle": "義妹5人いる",
+      "anilistId": 195017,
+      "coverUrl": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195017-POpBP1k2Ik5g.jpg",
+      "status": "reading",
+      "progressCurrent": 2,
+      "progressTotal": null,
+      "score": null,
+      "startedDate": "2026-07-30",
+      "genres": ["Comedy", "Romance"],
+      "synopsis": "",
+      "notes": "",
+      "history": [
+        { "date": "2026-07-30", "chapter": 2, "note": "Started reading" }
+      ],
+      "externalLinks": { "anilist": "https://anilist.co/manga/195017" }
     }
   ]
 }
